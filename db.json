@@ -1,0 +1,50 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Nirmal Kumar",
+      "role": "Admin",
+      "email": "technktailor@gmail.com",
+      "password": "12345678",
+      "contact": "9028928774",
+      "profilePicture": "src/assets/profilePics/1/picture.jpeg",
+      "isActive": "true"
+    }
+  ],
+  "articles": [
+    {
+      "id": "1",
+      "articleId": "1",
+      "title": "This is Article 1",
+      "description": "",
+      "publishDate": "",
+      "lastEdited": "",
+      "views": "",
+      "comments": [
+        {
+          "id": "1",
+          "userId": "1",
+          "articleId": "1",
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "articleId": "2",
+      "title": "This is Article 2",
+      "description": "",
+      "publishDate": "",
+      "lastEdited": "",
+      "views": "",
+      "comments": [
+        {
+          "id": "1",
+          "userId": "1",
+          "articleId": "2",
+          "comment": ""
+        }
+      ]
+    }
+  ]
+}
